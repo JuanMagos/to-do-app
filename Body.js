@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#98FB98',
   },
   pokemon: {
-    marginTop: 20,
+    flex: 1,
   },
 });
 
